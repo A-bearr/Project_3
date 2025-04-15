@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Global Financial Map</title>
+  <link rel="stylesheet" href="/static/style.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+<body>
+  <h1>Global Company Financial Rankings</h1>
+  <label for="metric-select">Choose a Metric:</label>
+  <select id="metric-select">
+    <option value="Revenue">Revenue</option>
+    <option value="Earnings">Earnings</option>
+    <option value="Market Cap">Market Cap</option>
+    <option value="All">All</option>
+  </select>
+  <div id="map"></div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
