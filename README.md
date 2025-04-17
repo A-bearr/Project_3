@@ -21,6 +21,27 @@ Python (Pandas, hvplot, Matplotlib)	Data wrangling, core visualizations
 JavaScript (Plotly, Leaflet)	Interactive dashboards and maps
 PostgreSQL	Company financial data storage
 D3.js	Advanced data visualizations
+Streamlit
+
+✅ How to Add This
+In your project folder:
+Paste the content above into it, updating:
+yourusername
+Live app link
+LinkedIn or personal site if you want
+Then push it:
+
+✅ How to Add This
+
+In your project folder:
+touch README.md
+
+An interactive Streamlit dashboard that ranks countries by financial performance using medal-style metrics such as:
+🏅 Revenue 🥈 Earnings 🥉 Market Cap 📊 P/E Ratio 💸 Dividend Yield
+
+🔗 Live App
+👉 View the Live Streamlit App
+
 
 Data Source:
 https://www.kaggle.com/datasets/patricklford/largest-companies-analysis-worldwide
