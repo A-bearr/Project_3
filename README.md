@@ -5,10 +5,10 @@
 Global Financial Olympics: A gamified leaderboard where countries compete economically—akin to an Olympic medal count—based on top-performing companies.
 
 We transform complex financial data into a global competition, assigning Gold, Silver, and Bronze rankings to countries based on the number of top companies they have across metrics such as:
-Revenue
-Earnings
-Market Capitalization
-Dividend Yield
+Revenue,
+Earnings,
+Market Capitalization,
+Dividend Yield,
 Growth Rate
 
 Visuals:
