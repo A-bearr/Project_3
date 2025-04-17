@@ -42,6 +42,7 @@ An interactive Streamlit dashboard that ranks countries by financial performance
 🔗 Live App
 👉 View the Live Streamlit App
 
+Link to our dashboard: https://projectthree.streamlit.app/
 
 Data Source:
 https://www.kaggle.com/datasets/patricklford/largest-companies-analysis-worldwide
